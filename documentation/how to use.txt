@@ -1,0 +1,4 @@
+"/demo" contains demonstration vi's to see an example of how to use them, writing to uart with VISA write
+
+"/package" contains the files to implement this package into your project
+-> more documentation to come.
